@@ -16,7 +16,7 @@ It is an object which holds all the state of the application together.
 ## DISPATCH
 It is used to send actions to update the data
 
-##Middleware
+## Middleware
 Redux itself is synchronous, so middleware comes here to perfome the async operations. Its required to handle all the extra jobs before actions get dispatch to reducers.
 For example: logging crash reports, send API requests etc
 
