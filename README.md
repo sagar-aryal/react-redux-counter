@@ -15,7 +15,7 @@ It is an object which holds all the state of the application together.
        
  ---
 
-### dispatch
+### Dispatch
 It is used to send actions to update the data
 
 ### Middleware
